@@ -1,3 +1,14 @@
 <plugins>
-  
+  <plugin name="test">
+    <path path="https://raw.githubusercontent.com/yu-ban56/pluginbuilder_repo/master/data/TestPlugin.class">
+      <changepath path="https://raw.githubusercontent.com/yu-ban56/pluginbuilder_repo/master/test/TestPlugin.class" />
+    </path>
+    <dependencies type="files">
+      <directory name="battlerpg">
+        <directory name="api">
+          <current/>
+        </directory>
+      </directory>
+    </dependencies>
+  </plugin>
 </plugins>
