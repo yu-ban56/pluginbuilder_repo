@@ -1,7 +1,7 @@
 <plugins>
   <plugin name="test">
     <classname name="battlerpg.api.Test" />
-    <path path="https://raw.githubusercontent.com/yu-ban56/pluginbuilder_repo/master/data/TestPlugin.class">
+    <path path="https://raw.githubusercontent.com/yu-ban56/pluginbuilder_repo/master/plugins.xml">
       <changepath path="https://raw.githubusercontent.com/yu-ban56/pluginbuilder_repo/master/test/TestPlugin.class" />
     </path>
     <dependencies type="files">
