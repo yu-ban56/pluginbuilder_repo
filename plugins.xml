@@ -20,7 +20,7 @@
     <dependencies type="files">
       <directory name="yuban">
         <directory name="battlerpg">
-          <directory name="python" />
+          <directory name="python">
             <current/>
           </directory>
         </directory>
