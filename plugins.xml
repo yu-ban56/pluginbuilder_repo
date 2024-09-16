@@ -28,20 +28,3 @@
     </dependencies>
   </plugin>
 </plugins>
-
-  <plugin name="jython">
-    <classname name="yuban.battlerpg.python.PythonPlugin" />
-    <path path="https://raw.githubusercontent.com/yu-ban56/pluginbuilder_repo/master/PythonPlugin.class">
-      <changepath path="https://raw.githubusercontent.com/yu-ban56/pluginbuilder_repo/master/test/PythonPlugin.class" />
-    </path>
-    <dependencies type="files">
-      <directory name="yuban">
-        <directory name="battlerpg">
-          <directory name="python">
-            <current/>
-          </directory>
-        </directory>
-      </directory>
-    </dependencies>
-  </plugin>
-</plugins>
