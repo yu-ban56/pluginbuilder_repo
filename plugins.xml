@@ -1,5 +1,6 @@
 <plugins>
   <plugin name="test">
+    <classname name="battlerpg.api.Test" />
     <path path="https://raw.githubusercontent.com/yu-ban56/pluginbuilder_repo/master/data/TestPlugin.class">
       <changepath path="https://raw.githubusercontent.com/yu-ban56/pluginbuilder_repo/master/test/TestPlugin.class" />
     </path>
