@@ -1,0 +1,11 @@
+<updater>
+    <update version="1.0.0" type="release">
+        <jarfile type="main" name="pluginbuilder.jar" url="https://github.com/yu-ban56/new_BattleRPG/releases/download/pluginbuilder-1.0-for-battlerpgbeta1.1.0/PluginBuilder.jar" />
+    </update>
+    <update version="1.5.0" type="release">
+        <jarfile type="main" name="pluginbuilder.jar" url="https://github.com/yu-ban56/new_BattleRPG/releases/download/pluginbuilder/pluginbuilder.jar" />
+    </update>
+    <update version="1.6.0" type="release">
+        <jarfile type="main" name="pluginbuilder.jar" url="https://github.com/yu-ban56/new_BattleRPG/releases/download/pluginbuilder-1.6/pluginbuilder-all.jar" />
+    </update>
+</updater>

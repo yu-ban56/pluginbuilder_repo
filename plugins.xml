@@ -1,4 +1,5 @@
 <plugins source="github">
+  <update xml="updater/updater.xml" />
   <plugin name="test">
     <classname name="battlerpg.api.Test" />
     <path path="https://raw.githubusercontent.com/yu-ban56/pluginbuilder_repo/master/plugins.xml">
