@@ -7,6 +7,6 @@
     </update>
     <update task="ant-update" version="1.6.0" type="release">
         <dlfile type="main" name="pluginbuilder.jar" url="https://github.com/yu-ban56/new_BattleRPG/releases/download/pluginbuilder-1.6/pluginbuilder-all.jar" />
-        <dlfile type="build" name="build.xml" url="" />
+        <dlfile type="build" name="build.xml" url="https://raw.githubusercontent.com/yu-ban56/pluginbuilder_repo/refs/heads/master/updater/1.6-ant.xml" />
     </update>
 </updater>
