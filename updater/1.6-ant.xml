@@ -1,0 +1,5 @@
+<project name="1.6 Updater">
+  <target name="update">
+    <echo message="Test Completed!" />
+  </target>
+</project>
